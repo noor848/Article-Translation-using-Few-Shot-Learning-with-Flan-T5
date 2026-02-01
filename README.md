@@ -1,9 +1,5 @@
 # Article-Translation-using-Few-Shot-Learning-with-Flan-T5
 
-
-
-# Article Translation using Few-Shot Learning with Flan-T5
-
 A machine learning project that demonstrates English-to-Spanish translation using Google's Flan-T5 language model with few-shot learning techniques.
 
 ## Description
