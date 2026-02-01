@@ -56,9 +56,3 @@ translation = tokenizer.decode(outputs[0], skip_special_tokens=True)
 3. **Prompt Construction**: Builds a few-shot prompt with example pairs
 4. **Translation**: Feeds new articles through the model with examples as context
 5. **Evaluation**: Outputs can be reviewed and the prompt refined iteratively
-
-
-
-## Contact
-
-For questions or feedback, please open an issue on the project repository.
